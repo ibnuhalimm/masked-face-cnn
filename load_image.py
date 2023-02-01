@@ -5,8 +5,8 @@ import numpy as np
 
 # Define our directories and the image size
 test_case = 'kf94/masked_face'
-train_directory = 'datasets/v5/' + test_case + '/train'
-validation_directory = 'datasets/v5/' + test_case + '/validation'
+train_directory = 'datasets/' + test_case + '/train'
+validation_directory = 'datasets/' + test_case + '/validation'
 
 img_width = 96
 img_height = 96
