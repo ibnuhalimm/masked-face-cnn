@@ -1,4 +1,6 @@
 __pycache__
 .vscode
+*.h5
 datasets/
 results/
+masked-face-datasets.zip
